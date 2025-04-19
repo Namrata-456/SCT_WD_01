@@ -10,6 +10,7 @@ UI
 - JavaScript
   
 🙋‍♀️ Author
-Namrata Pahwa
-Intern at Skill Craft Technology
+
+Namrata Pahwa|
+Intern at Skill Craft Technology|
 LinkedIn: Namrata Pahwa  
